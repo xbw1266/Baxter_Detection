@@ -1,0 +1,6 @@
+__pycache__
+.idea
+Mask_to_coco
+checkpoints
+cam1_epoch_110.pt
+Weights
