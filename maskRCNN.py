@@ -1,5 +1,3 @@
-import cv2
-import glob
 from detectron2 import model_zoo
 from detectron2.engine.defaults import DefaultPredictor
 from detectron2.utils.visualizer import ColorMode, Visualizer
